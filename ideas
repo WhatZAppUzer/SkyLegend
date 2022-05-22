@@ -1,0 +1,19 @@
+Core:
+  Island:
+    - IslandUpgrades
+    - IslandAchievements
+    - IslandPerks
+    - Cobble-Miner(upgradeable)
+    - change biome
+    - statistics(blocks place, blocks break usw.)
+    - missions
+    - challenges
+    - delete(With confirm)
+    - IslandLevel
+  SkyPlayer:
+    - maxCreateIslands(2 configurable)
+    - jobs
+    - statistics(coins, block place, blocks break)
+    - PlayerLevel
+    - update
+    - activeMission

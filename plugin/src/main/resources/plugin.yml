@@ -1,0 +1,11 @@
+name: SkyLegend
+author: WhatsAppUser
+version: 1.0.0
+api-version: 1.8.8
+main: de.whatsappuser.skylegend.SkyLegend
+commands:
+  island:
+    aliases:
+      - is
+      - sky
+      - skylegend
