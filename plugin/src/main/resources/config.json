@@ -1,0 +1,34 @@
+{
+  "config": {
+    "prefix": "§e§lSkyLegend §8• §7",
+    "error_report": true,
+    "config_version": 1.0,
+    "storage-type": "mongodb",
+    "host": "localhost",
+    "port": 27017,
+    "datas": "datenbank_name",
+    "auth": false,
+    "database": "admin",
+    "user": "root",
+    "password": "supergeheim_xd"
+  },
+  "Island_Settings": {
+    "max_create_Islands": 1,
+    "world_name": "SkyLegend",
+    "data_save_interval": 5,
+    "send_island_enter_message": true,
+    "send_island_leave_message": true,
+    "island_distance": 100,
+    "min_x": 0,
+    "min_z": 0,
+    "max_x": 1000,
+    "max_z": 1000
+  },
+  "Settings": {
+    "use_chat_format": true,
+    "chat_format": "§a{is-level} §7[§9{is-top}§7] §r{old-format}",
+    "default_biome": "PLAINS",
+    "inviteExpireTime": 10,
+    "use_permissions_manager": false
+  }
+}

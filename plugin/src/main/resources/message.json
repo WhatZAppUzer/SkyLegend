@@ -1,0 +1,5 @@
+{
+  "playerNoPermission": "§cYou are not authorized to do this",
+  "mustBeAPlayer": "§cYou are not eligible, only players are allowed",
+  "commandHelp": "§ea brief overview of all commands"
+}

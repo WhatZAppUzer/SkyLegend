@@ -1,0 +1,23 @@
+{
+  "scoreboard_settings": {
+    "scoreboard_title": "§e§lSkyLegend",
+    "scoreboard_update_time": 5,
+    "scoreboard_enabled": true,
+    "scoreboard_worlds": [
+      "SkyLegend"
+    ],
+    "scoreboard_components": [
+      "",
+      "§7Island: §c%is-name%",
+      "§7Island Owner: §c%is-owner%",
+      "§7Player: §c%player%",
+      "§7Coins: §a$§l%coins%",
+      "",
+      "§7Bank: §a$§l%is_worth_bank%",
+      "§7Top:§a #§l%is_top",
+      "&7* Worth: &a$&l%is-worth_total%",
+      "&7Block Worth: &a$&l%is-worth_blocks%",
+      "&7Spawner Worth: &a$&l%is-worth_spawners%"
+    ]
+  }
+}
